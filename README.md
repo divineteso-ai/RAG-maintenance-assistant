@@ -35,6 +35,7 @@ such as Hugging Face TRL or Unsloth.
 
 <img width="1785" height="215" alt="rag-maintenance-assistant-demo2 png" src="https://github.com/user-attachments/assets/c4d8ee7e-0582-4add-b8d0-739ca44a4e30" />
 
+
 The questions are in German because the source handbooks are German. The
 assistant is designed to answer in German as well.
 
