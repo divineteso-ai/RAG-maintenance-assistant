@@ -31,17 +31,9 @@ such as Hugging Face TRL or Unsloth.
 
 ## Example questions
 
-```text
-Wie tausche ich das Druckventil DV-12 aus? Welche Werkzeuge brauche ich und worauf muss ich achten?
-```
+<img width="1791" height="331" alt="rag-maintenance-assistant-demo png" src="https://github.com/user-attachments/assets/13813c95-0e16-443d-b454-dafd19b047d8" />
 
-```text
-Was bedeutet der Fehlercode E07?
-```
-
-```text
-Wie oft muss das Kompressoröl K1 gewechselt werden?
-```
+<img width="1785" height="215" alt="rag-maintenance-assistant-demo2 png" src="https://github.com/user-attachments/assets/c4d8ee7e-0582-4add-b8d0-739ca44a4e30" />
 
 The questions are in German because the source handbooks are German. The
 assistant is designed to answer in German as well.
